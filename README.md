@@ -86,10 +86,10 @@ sarawutms@homelab:~$ neofetch --profile
       <a href="https://github.com/sarawutms/market-structure-playbook">📦 Source Code</a>
     </td>
     <td width="50%">
-      <h3>🛰️ NetPulse & Homelab Suite</h3>
-      <p>ชุดมอนิเตอร์ Network Latency และตรวจสุขภาพเซิร์ฟเวอร์แบบอัตโนมัติ</p>
-      <a href="https://github.com/sarawutms/netpulse">📦 <b>NetPulse</b></a> | 
-      <a href="https://github.com/sarawutms/server-health-check">📦 <b>Health-Check</b></a>
+      <h3>📱 YodPeh (ยอดเป๊ะ)</h3>
+      <p>PWA Web App บันทึกรายการโอนเงิน ตรวจสอบสลิปและสรุปผลรายรับ-รายจ่ายอย่างแม่นยำ</p>
+      <a href="https://yod-peh.vercel.app">🔗 <b>Open Live App</b></a> | 
+      <a href="https://github.com/sarawutms/yod-peh">📦 Source Code</a>
     </td>
   </tr>
 </table>
@@ -106,5 +106,3 @@ sarawutms@homelab:~$ neofetch --profile
 </p>
 
 </div>
-
-
