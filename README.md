@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# ⚡ Sarawut.Ms
+# ⚡ Sarawut.Ms (KADASHI)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=DevOps+%26+Infrastructure+Automation;FinTech+%26+Trading+Systems+Builder;Homelab+Enthusiast+%7C+Linux+Tinkerer;Maker+at+Kadashi+(3D+Print+Gadgets))](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://kadashi.pages.dev"><img src="https://img.shields.io/badge/Kadashi-3D_Gadgets-7aa2f7?style=for-the-badge&logo=cloudflarepages&logoColor=white" /></a>
-  <a href="https://trading-journal-six-seven.vercel.app"><img src="https://img.shields.io/badge/Live_App-Trading_Journal-2ac3de?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://sarawutms.github.io/market-structure-playbook/"><img src="https://img.shields.io/badge/Docs-Playbook-9ece6a?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
-  <a href="https://github.com/sarawutms?tab=repositories"><img src="https://img.shields.io/badge/GitHub-18+_Repos-bb9af7?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sarawutms?tab=followers"><img src="https://img.shields.io/github/followers/sarawutms?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&logoColor=white" /></a>
+  <a href="https://github.com/sarawutms?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarawutms&logo=github&color=bb9af7&logoColor=white" /></a>
 </p>
 
 </div>
@@ -110,4 +108,3 @@ sarawutms@homelab:~$ neofetch --profile
 </p>
 
 </div>
-
