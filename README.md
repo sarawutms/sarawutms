@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# ⚡ Sarawut.Ms (KADASHI)
+# ⚡ Sarawut.Ms
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=DevOps+%26+Infrastructure+Automation;FinTech+%26+Trading+Systems+Builder;Homelab+Enthusiast+%7C+Linux+Tinkerer;Maker+at+Kadashi+(3D+Print+Gadgets))](https://git.io/typing-svg)
 
@@ -93,18 +93,3 @@ sarawutms@homelab:~$ fastfetch
 </table>
 
 ---
-
-<div align="center">
-
-### 📈 Activity & Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sarawutms&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarawutms&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarawutms&theme=tokyonight&hide_border=true" width="95%" />
-</p>
-
-</div>
