@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 💻 System Information & The 3 Pillars
 
 ```bash
-sarawutms@homelab:~$ neofetch --profile
+sarawutms@homelab:~$ fastfetch
 --------------------------------------
 👤 User       : Sarawut.Ms (@sarawutms)
 📍 Identity   : DevOps Automator | FinTech Tools Builder | 3D Maker
@@ -66,30 +66,45 @@ sarawutms@homelab:~$ neofetch --profile
     <td width="50%">
       <h3>📊 Trading Journal</h3>
       <p>Web app บันทึกและวิเคราะห์การเทรด คำนวณ Win-Rate, Risk/Reward และสถิติพอร์ต</p>
-      <a href="https://trading-journal-six-seven.vercel.app">🔗 <b>Open Live App</b></a> | 
-      <a href="https://github.com/sarawutms/trading-journal">📦 Source Code</a>
+      <a href="https://trading-journal-six-seven.vercel.app"><img src="https://img.shields.io/badge/Live_App-Open_App-2563eb?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/sarawutms/trading-journal"><img src="https://img.shields.io/badge/Code-Source-333333?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h3>🖨️ Kadashi (3D Gadgets)</h3>
       <p>Custom 3D-printed accessories, อุปกรณ์จัดระเบียบโต๊ะทำงานและ Ergonomics</p>
-      <a href="https://kadashi.pages.dev">🔗 <b>Visit Kadashi</b></a> | 
-      <a href="https://github.com/sarawutms/link-in-bio">📦 Source Code</a>
+      <a href="https://kadashi.pages.dev"><img src="https://img.shields.io/badge/Store-Visit_Kadashi-f59e0b?style=flat-square&logo=cloudflarepages&logoColor=white" /></a>
+      <a href="https://github.com/sarawutms/link-in-bio"><img src="https://img.shields.io/badge/Code-Source-333333?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📈 Market Structure Playbook</h3>
       <p>เอกสารและคู่มือเชิงลึกเรื่อง Liquidity, Order Blocks และ Market Frameworks</p>
-      <a href="https://sarawutms.github.io/market-structure-playbook/">🔗 <b>Read Playbook</b></a> | 
-      <a href="https://github.com/sarawutms/market-structure-playbook">📦 Source Code</a>
+      <a href="https://sarawutms.github.io/market-structure-playbook/"><img src="https://img.shields.io/badge/Docs-Read_Playbook-10b981?style=flat-square&logo=gitbook&logoColor=white" /></a>
+      <a href="https://github.com/sarawutms/market-structure-playbook"><img src="https://img.shields.io/badge/Code-Source-333333?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h3>📱 YodPeh (ยอดเป๊ะ)</h3>
       <p>PWA Web App บันทึกรายการโอนเงิน ตรวจสอบสลิปและสรุปผลรายรับ-รายจ่ายอย่างแม่นยำ</p>
-      <a href="https://yod-peh.vercel.app">🔗 <b>Open Live App</b></a> | 
-      <a href="https://github.com/sarawutms/yod-peh">📦 Source Code</a>
+      <a href="https://yod-peh.vercel.app"><img src="https://img.shields.io/badge/Live_App-Open_App-6366f1?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/sarawutms/yod-peh"><img src="https://img.shields.io/badge/Code-Source-333333?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
 ---
+
+<div align="center">
+
+### 📈 Activity & Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sarawutms&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarawutms&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarawutms&theme=tokyonight&hide_border=true" width="95%" />
+</p>
+
+</div>
