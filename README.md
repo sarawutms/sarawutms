@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sarawutms/sarawutms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Sarawut (srwms) 👋
 ### *Bridging Software, Infrastructure, and Physical Hardware*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=DevOps+%26+Infrastructure+Automator;Building+FinTech+%26+Trading+Systems;Homelab+Enthusiast+%7C+Linux+Tinkerer;Maker+at+Kadashi+(3D+Print+Gadgets))](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/sarawutms?label=Followers&style=flat-square&color=2563eb)](https://github.com/sarawutms)
 [![Public Repos](https://img.shields.io/badge/Repos-18+-10b981?style=flat-square)](https://github.com/sarawutms?tab=repositories)
