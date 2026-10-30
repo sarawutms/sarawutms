@@ -59,12 +59,3 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarawutms&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarawutms&layout=compact&theme=radical&hide_border=true" width="46%" />
-
-</div>
-
