@@ -15,62 +15,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sarawut Ms.
-**DevOps Engineer & Full-Stack Tooling Builder**
+<div align="center">
 
-Building automated infrastructure, financial analytics software, and hardware gadgets.
+# Hi, I'm Sarawut (srwms) 👋
+### *Bridging Software, Infrastructure, and Physical Hardware*
 
-[🌐 Kadashi Store](https://kadashi.pages.dev) • [📈 Trading Journal](https://trading-journal-six-seven.vercel.app) • [📖 Market Playbook](https://sarawutms.github.io/market-structure-playbook/) • [💻 GitHub Repos](https://github.com/sarawutms?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/sarawutms?label=Followers&style=flat-square&color=2563eb)](https://github.com/sarawutms)
+[![Public Repos](https://img.shields.io/badge/Repos-18+-10b981?style=flat-square)](https://github.com/sarawutms?tab=repositories)
+[![Kadashi](https://img.shields.io/badge/Kadashi-3D_Maker-f59e0b?style=flat-square)](https://kadashi.pages.dev)
 
----
-
-### 🚀 Live Products & Deployed Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 Trading Journal</h3>
-      <p>All-in-one trade logging and analytical tool designed to track win rate, R:R ratios, and emotional discipline.</p>
-      <a href="https://trading-journal-six-seven.vercel.app">🔗 Open App</a> | 
-      <a href="https://github.com/sarawutms/trading-journal">📦 Source</a>
-    </td>
-    <td width="50%">
-      <h3>🖨️ Kadashi (3D Gadgets)</h3>
-      <p>Precision 3D printed accessories, cable management, and bespoke desk setups tailored for engineers.</p>
-      <a href="https://kadashi.pages.dev">🔗 Visit Kadashi</a> | 
-      <a href="https://github.com/sarawutms/link-in-bio">📦 Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📈 Market Structure Playbook</h3>
-      <p>Interactive documentation and visual playbook detailing liquidity sweeps, order blocks, and trade frameworks.</p>
-      <a href="https://sarawutms.github.io/market-structure-playbook/">🔗 Read Docs</a> | 
-      <a href="https://github.com/sarawutms/market-structure-playbook">📦 Source</a>
-    </td>
-    <td width="50%">
-      <h3>🛰️ NetPulse & Server Health</h3>
-      <p>Lightweight Python monitoring daemon providing automated network pinging and alert triggers.</p>
-      <a href="https://github.com/sarawutms/netpulse">📦 NetPulse</a> | 
-      <a href="https://github.com/sarawutms/server-health-check">📦 Health-Check</a>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### ⚙️ Technologies
+### 🏛️ The Three Pillars
 
 ```
-• Core Languages : Go, Python, TypeScript, Shell / Bash, PowerShell
-• Infrastructure : Linux Administration, Docker, Active Directory, Homelab Clusters
-• Cloud & Edge   : Vercel, Cloudflare Pages, GitHub Actions, Reverse Proxies
-• Hardware/Craft : FDM 3D Printing, Desk Ergonomics, CAD Design
++--------------------------+--------------------------+--------------------------+
+|  1. Infra & Homelab      |  2. FinTech & Trading    |  3. Maker & Hardware     |
++--------------------------+--------------------------+--------------------------+
+| • Linux & Bash tweaks    | • Trading Journal app    | • Kadashi 3D Print store |
+| • Server health watchdog | • Market playbook docs   | • Desk setup ergonomics  |
+| • Active Directory tools | • Gold & news alert bots | • Rapid prototyping      |
+| • Network pulse monitor  | • Bank API watchdogs     | • Custom bracket designs |
++--------------------------+--------------------------+--------------------------+
 ```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarawutms&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sarawutms&show_icons=true&theme=dark&hide_border=true" width="48%" />
-</p>
+### 📌 Pinned Highlights
+
+- 🖥️ **Homelab & DevOps Automation:**
+  - [`srwms-homelab`](https://github.com/sarawutms/srwms-homelab): Configs, docker-compose, and architecture for self-hosted instances.
+  - [`netpulse`](https://github.com/sarawutms/netpulse): Network heartbeat monitor built with Python.
+  - [`ad-helpdesk-tools`](https://github.com/sarawutms/ad-helpdesk-tools): Automation scripts for Active Directory support.
+
+- 📈 **Trading & Market Intelligence:**
+  - [`trading-journal`](https://trading-journal-six-seven.vercel.app): Full-stack trading journal app deployed on Vercel.
+  - [`market-structure-playbook`](https://sarawutms.github.io/market-structure-playbook/): Technical analysis frameworks and reference guides.
+  - [`bank-api-watchdog`](https://github.com/sarawutms/bank-api-watchdog) & [`gold-news-alerts`](https://github.com/sarawutms/gold-news-alerts): Real-time alert listeners.
+
+- 🖨️ **Physical Maker Lab:**
+  - [`kadashi.pages.dev`](https://kadashi.pages.dev): 3D printed custom accessories and functional design.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarawutms&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarawutms&layout=compact&theme=radical&hide_border=true" width="46%" />
+
+</div>
+
